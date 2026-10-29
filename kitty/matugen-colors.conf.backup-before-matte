@@ -1,0 +1,39 @@
+# ~/.config/matugen/templates/kitty.conf
+
+foreground #e2e2e9
+background #0D0D0D
+selection_foreground #283041
+selection_background #bec6dc
+
+cursor #e2e2e9
+cursor_text_color #111318
+
+active_tab_foreground #111318
+active_tab_background #abc7ff
+inactive_tab_foreground #e2e2e9
+inactive_tab_background #44474e
+
+# The 16 terminal colors
+color0 #111318
+color8 #44474e
+
+color1 #ffb4ab
+color9 #ffb4ab
+
+color2 #abc7ff
+color10 #abc7ff
+
+color3 #bec6dc
+color11 #bec6dc
+
+color4 #ddbce0
+color12 #ddbce0
+
+color5 #425e91
+color13 #425e91
+
+color6 #d7e2ff
+color14 #d7e2ff
+
+color7 #e2e2e9
+color15 #e2e2e9

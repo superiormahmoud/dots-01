@@ -1,0 +1,6 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export CHROME_EXECUTABLE:/usr/bin/brave
+SETUVAR --export JAVA_HOME:/usr/lib/jvm/java\x2d17\x2dopenjdk
+SETUVAR fish_greeting:\x1d
+SETUVAR fish_user_paths:/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/home/mahmoud/flutter/bin\x1e/home/mahmoud/\x2ecargo/bin
